@@ -1,0 +1,12 @@
+../Core/Src/AD5676.c:22:10:AD5676R_init	16	static
+../Core/Src/AD5676.c:46:10:AD5676R_write	56	dynamic
+../Core/Src/AD5676.c:80:10:AD5676_Update_Input_Register_N	24	static
+../Core/Src/AD5676.c:96:10:AD5676_Update_DAC_Register_N_from_Input	24	static
+../Core/Src/AD5676.c:115:10:AD5676_Update_DAC_Channel_N	24	static
+../Core/Src/AD5676.c:132:10:AD5676_Update_All_reg_simulat	24	static
+../Core/Src/AD5676.c:166:10:AD5676_Read_DAC_Register_N	24	static
+../Core/Src/AD5676.c:201:10:AD5676_Set_DAC_Gain	24	static
+../Core/Src/AD5676.c:223:10:AD5676_Reset_DAC	24	static
+../Core/Src/AD5676.c:249:10:AD5676_Power_Down_DAC_All	16	static
+../Core/Src/AD5676.c:265:10:AD5676_Power_Up_DAC_All	16	static
+../Core/Src/AD5676.c:281:10:AD5676_Power_Down_DAC_N	24	static

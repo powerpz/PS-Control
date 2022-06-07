@@ -1,0 +1,4 @@
+../Core/Src/Def_ProtocolSlave.c:32:6:PROTSLV_Init	8	static
+../Core/Src/Def_ProtocolSlave.c:71:16:PROTSLV_Motor	32	static
+../Core/Src/Def_ProtocolSlave.c:405:16:ActionNULL	24	static
+../Core/Src/Def_ProtocolSlave.c:410:16:CheckHeader	32	static

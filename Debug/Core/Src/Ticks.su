@@ -1,0 +1,2 @@
+../Core/Src/Ticks.c:4:10:TICKS_GetTicks	16	static
+../Core/Src/Ticks.c:13:10:TICKS_DiffTicks	24	static
