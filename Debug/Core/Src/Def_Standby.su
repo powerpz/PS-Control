@@ -1,0 +1,8 @@
+../Core/Src/Def_Standby.c:68:6:standbyInit	16	static
+../Core/Src/Def_Standby.c:92:6:standbyMotor	16	static
+../Core/Src/Def_Standby.c:787:6:LED_Standby_Init	16	static
+../Core/Src/Def_Standby.c:805:6:LED_Standby_Motor	24	static
+../Core/Src/Def_Standby.c:851:6:LED_Standby_Configure	16	static
+../Core/Src/Def_Standby.c:860:6:LED_Standby_CanviLED	16	static
+../Core/Src/Def_Standby.c:871:6:ledStandByColor	16	static
+../Core/Src/Def_Standby.c:889:6:SWITCH_Detect	16	static

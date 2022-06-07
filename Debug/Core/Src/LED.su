@@ -1,0 +1,4 @@
+../Core/Src/LED.c:17:6:LED_Init	16	static
+../Core/Src/LED.c:38:6:LED_Motor	24	static
+../Core/Src/LED.c:83:6:LED_Configure	16	static
+../Core/Src/LED.c:91:6:LED_CanviLED	16	static

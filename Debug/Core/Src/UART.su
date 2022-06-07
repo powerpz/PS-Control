@@ -1,0 +1,11 @@
+../Core/Src/UART.c:34:16:UART_Init	24	static
+../Core/Src/UART.c:216:6:UART_DesactivaUart	24	static
+../Core/Src/UART.c:287:10:UART_QuantsBytesBufferRX	24	static
+../Core/Src/UART.c:363:16:UART_Transmit	40	static
+../Core/Src/UART.c:464:16:UART_Receive	48	static
+../Core/Src/UART.c:551:6:UART_ResetTX	16	static
+../Core/Src/UART.c:613:6:UART_ResetRX	24	static
+../Core/Src/UART.c:687:9:UART_HiHaOverflow	16	static
+../Core/Src/UART.c:699:9:UART_TransmitNOTFinished	16	static
+../Core/Src/UART.c:710:6:HAL_UART_TxCpltCallback	24	static
+../Core/Src/UART.c:776:6:HAL_UART_RxCpltCallback	24	static

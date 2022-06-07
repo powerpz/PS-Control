@@ -1,0 +1,7 @@
+../Core/Src/Def_Control.c:58:6:CTR_identif	8	static
+../Core/Src/Def_Control.c:132:6:alarmsControl_init	4	static
+../Core/Src/Def_Control.c:142:6:alarmsControl_motor	16	static
+../Core/Src/Def_Control.c:303:6:CTR_fuentes_ON_OFF_init	4	static
+../Core/Src/Def_Control.c:310:6:CTR_fuentes_ON_OFF_motor	8	static
+../Core/Src/Def_Control.c:441:6:appSPI_init	16	static
+../Core/Src/Def_Control.c:464:6:appSPI_motor	24	static

@@ -1,0 +1,6 @@
+../Core/Src/Def_System.c:339:6:SYS_Init	16	static
+../Core/Src/Def_System.c:374:16:SYS_GetParam_Char	24	static
+../Core/Src/Def_System.c:389:16:SYS_SetParam_Char	24	static
+../Core/Src/Def_System.c:403:16:SYS_Action	32	static
+../Core/Src/Def_System.c:471:9:esLecturaDestructiva	16	static
+../Core/Src/Def_System.c:476:9:isReadOnlyRegister	16	static
