@@ -144,8 +144,6 @@ int main(void)
 
 
 
-
-
   standbyInit();
 
   appSPI_init();
